@@ -1,3 +1,4 @@
 
 
-body {background-color: salmon;}
+body {background-color: salmon;
+        forced-color-adjust: black;}
